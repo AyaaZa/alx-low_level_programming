@@ -1,14 +1,12 @@
 #include "main.h"
 
 /**
- * times_table - times
- * Ruturn: void
+ * main - check the code
+ *
+ * Return: Always 0.
  */
-
-void times_table(void)
+int main(void)
 {
-int n;
-int num;
-
-
+    times_table();
+    return (0);
 }
