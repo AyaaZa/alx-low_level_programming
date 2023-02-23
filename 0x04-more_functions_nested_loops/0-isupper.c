@@ -1,8 +1,9 @@
 #include  "main.h"
 
-/** _isupper - checks if the letter is capital
- *@c: value to be checked
- *Return: 1 if upper 0 if not
+/**
+ * _isupper - checks if the letter is capital
+ * @c: value to be checked
+ * Return: as shown
  */
 
 int _isupper(int c)
